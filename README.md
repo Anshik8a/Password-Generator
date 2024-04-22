@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# Getting Started with Create React App 
+In this Project we use react.js and for the styling we used tailwind css.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
